@@ -99,7 +99,7 @@ hr { width: 50%; margin: 1.5rem auto 0; }
   flex-wrap: wrap;
   margin: auto;
   justify-content: center; /* horizontal */
-  padding: 8px;
+  padding: 4px;
   gap: 2rem;
 }
 
@@ -112,7 +112,7 @@ hr { width: 50%; margin: 1.5rem auto 0; }
 #education .column { flex-basis: 310px; }
 .column:hover { background-color: #E5E7EB; transform: translateY(-5px); }
 
-.item { padding: 10px 20px 20px; }
+.item { padding: 20px; }
 
 
                                 /*     images     */
