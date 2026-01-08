@@ -158,17 +158,29 @@ footer > .fa {
   font-size: 25px;
   margin: 5px;
 }
-footer { box-sizing: border-box; width: 100%; background-color: #F0F0F0; padding: 0.5rem; }
-footer > .fa:hover { margin: 5px 10px; transform: scale(1.05); }
-/* Default box-sizing: content-box; Width and height apply only to the content. Padding and border are added on top of that
-box-sizing: border-box; Padding and borders are also included. */
+
+footer { 
+  box-sizing: border-box; 
+  width: 100%; 
+  background-color: #F0F0F0; 
+  padding: 0.5rem; 
+}
+
+footer > .fa:hover { 
+  margin: 5px 10px; 
+  transform: scale(1.05); 
+}
+
+/* 
+box-sizing: content-box; (default) - Width and height apply only to the content. Padding and border are added separately
+box-sizing: border-box; - Padding and borders are also included in the specified height/width. 
+*/
 
 .fa-linkedin { background: #007bb5; }
 .fa-instagram { background: #125688; }
 .fa-github { background: black; }
 .fa-envelope { background: #85b5ff; }
 
-.navbar .fa { padding: 0; }
 .fa-trophy, .fa-trophy:hover {
   font-size: 16px;
   margin: 0.2rem 0 0;
