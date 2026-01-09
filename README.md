@@ -5,7 +5,8 @@ This website was originally developed as part of the [Build Your Portfolio Websi
 [Service](https://flaticon.com/free-icons/quality) • 
 [Graduation Cap](https://flaticon.com/free-icon/graduation-cap_686051) • 
 [Leaves](https://flaticon.com/free-icon/leaves_1490749?term=nature&page=1&position=1&origin=search&related_id=1490749) • 
-[Puzzle Pieces](https://flaticon.com/free-icon/puzzle-piece_4205637)
-
+[Puzzle Pieces](https://flaticon.com/free-icon/puzzle-piece_4205637) \
 Programming language and tool icons sourced from [Devicon](https://devicon.dev) \
 Social media icons sourced from [FontAwesome](https://fontawesome.com)
+
+Urdu fonts sourced from https://urdufonts.net/
